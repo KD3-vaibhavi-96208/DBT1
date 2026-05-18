@@ -1,0 +1,25 @@
+[
+    {
+        "id":1 ,
+        "name": "C Programming ",
+        "price":100
+    },
+    
+     {
+        "id":2 ,
+        "name": "JAVA Programming ",
+        "price":200
+    },
+     {
+        "id": 3 ,
+        "name": "C++ Programming ",
+        "price":300
+    },
+
+    {
+        "id": 4 ,
+        "name": "DSA Programming ",
+        "price":400
+    }
+
+]
