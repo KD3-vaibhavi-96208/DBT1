@@ -1,0 +1,3 @@
+wwwroot\foodImages\Burger.jpg
+wwwroot\foodImages\curdrice.jpg
+wwwroot\foodImages\pizza.jpg
